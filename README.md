@@ -4,9 +4,12 @@
 [![Python Versions](https://img.shields.io/pypi/pyversions/jupyter-server-favicon.svg)](https://pypi.org/project/jupyter-server-favicon/)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![Documentation Status](https://readthedocs.org/projects/jupyter-server-favicon/badge/?version=latest)](https://jupyter-server-favicon.readthedocs.io/en/latest/?badge=latest)
+
+> **Sponsored by [Enverge.ai](https://enverge.ai)** - Simpler, greener, cheaper AI training platform. Enverge harnesses excess green energy for powerful, cost-effective computing on GPUs, enabling environmentally friendly AI model development, training, and fine-tuning. Currently in private alpha with limited spots available.
 
 A Jupyter Server extension that adds favicon support to your Jupyter Server instance, making it easier to identify your Jupyter tabs in the browser.
+
+![demo](./enverge-favicon.gif)
 
 ## Features
 
