@@ -9,7 +9,7 @@
 
 A Jupyter Server extension that adds favicon support to your Jupyter Server instance, making it easier to identify your Jupyter tabs in the browser.
 
-![demo](./enverge-favicon.gif)
+![demo](https://raw.githubusercontent.com/Enverge-Labs/jupyter-server-favicon/refs/heads/main/enverge-favicon.gif)
 
 ## Features
 

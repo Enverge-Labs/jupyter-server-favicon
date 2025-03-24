@@ -61,7 +61,7 @@ packages = ["jupyter_server_favicon"]
 github_url = "https://github.com/Enverge-Labs/enverge_nativeauthenticator"
 
 [tool.tbump.version]
-current = "0.0.5"
+current = "0.0.1"
 regex = '''
     (?P<major>\d+)
     \.
@@ -78,4 +78,4 @@ message_template = "Bump to {new_version}"
 tag_template = "{new_version}"
 
 [[tool.tbump.file]]
-src = "setup.py"
+src = "pyproject.toml"
