@@ -27,7 +27,7 @@ dependencies = [
     "jinja2",
     "jupyter_server",
 ]
-version = "0.0.1"
+version = "0.0.2"
 urls = { Homepage = "https://github.com/Enverge-Labs/jupyter-server-favicon" }
 
 [project.optional-dependencies]
@@ -61,7 +61,7 @@ packages = ["jupyter_server_favicon"]
 github_url = "https://github.com/Enverge-Labs/enverge_nativeauthenticator"
 
 [tool.tbump.version]
-current = "0.0.1"
+current = "0.0.2"
 regex = '''
     (?P<major>\d+)
     \.
